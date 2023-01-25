@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>category</key>
+	<array>
+		<string>all</string>
+		<string>national</string>
+		<string>business</string>
+		<string>sports</string>
+		<string>world</string>
+		<string>politics</string>
+		<string>technology</string>
+		<string>startup</string>
+		<string>entertainment</string>
+		<string>miscellaneous</string>
+		<string>hatke</string>
+		<string>science</string>
+		<string>automobile</string>
+	</array>
+</dict>
+</plist>
